@@ -1,4 +1,4 @@
 # practice-demo
 This is my first Git Repository
 <br>
-Author - Danish Shaikh
+Author - Danish (Danish Shaikh)
